@@ -1,6 +1,6 @@
 {
   "name": "ice-client-license",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "main": "bot-with-license-api.js",
   "scripts": {
@@ -10,6 +10,7 @@
     "node": ">=20"
   },
   "dependencies": {
+    "discord.js": "^14.22.1",
     "express": "^5.1.0"
   }
 }
